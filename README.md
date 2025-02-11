@@ -4,8 +4,8 @@ tmcurti4@ncsu.edu• (410) 953-9071 • [https://linkedin.com/in/tristan-curtis-
 **EDUCATION**
 
 **North Carolina State University | Raleigh, NC**                                                                                     
-**B.S. in Computer Science | GPA:** 3.7/4.0 | **ABM Program | Dean’s List**                                                                                  	          May 2026
-
+**B.S. in Computer Science | GPA:** 3.7/4.0 | **ABM Program | Dean’s List**                                                                                  	        
+Expected Graudatoin: May 2026
 **Relevant Courses:** Data Structures and Algorithms, Operating Systems, Linear Algebra, C and Software Tools
 
 **WORK EXPERIENCE**
